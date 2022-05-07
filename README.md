@@ -6,7 +6,7 @@
  If you are the beginner coder, just start from Chapter 1 first :">
  
  ### Build and run
-  #### Visual Studio
+  #### Visual Studio 2022 (VS 2019 may not support)
   To run on Visual Studio just open the Solution file (`.sln`). And that's it :">
   #### Visual Studio Code
   Navigate immediately the `main.cpp` file and compile it using `g++ main.cpp` or anything else that you have installed at first. Please make sure to search on Google if you don't know [how to install C++ in Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp).
